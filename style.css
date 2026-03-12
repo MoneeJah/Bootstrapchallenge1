@@ -10,14 +10,3 @@ body {
 }
 
 
-#preview-card-container {
-  width: 384px;
-  height: 565px;
-  background-color: #fff;
-  border-radius: 20px;
-  border: 1px solid black;
-  box-shadow: 8px 8px 0px 0px #000;
-  padding: 1.2rem;
-  margin: 3rem auto;
-}
-
